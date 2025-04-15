@@ -1,4 +1,6 @@
 # Questions pour l'interview de Furrball Développement
+## Descriptions Préalable des créateur
+
 ## Origines et création de l'entreprise
 - ##### Comment est née l'idée de Furrball Développement?
 - ##### Pourquoi avoir choisi ce nom pour votre entreprise?
